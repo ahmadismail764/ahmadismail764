@@ -18,6 +18,6 @@ Check out my repos! 😊
 
 ## 📫 Let's Connect!  
 - **Email**: ahmedeldeehy30305@gmail.com
-- **LinkedIn**:
+- **LinkedIn**: https://www.linkedin.com/in/ahmad-ismail-71a285259/
 
 Feel free to explore my repositories and connect if you'd like to collaborate or chat about tech!  
