@@ -7,7 +7,7 @@
 - 💻 **Programming Skills**:  
   - **Languages**: C++, Python.  
   - **Technologies & Tools**: Git, Visual Studio Code, SQL.  
-- 📘 **Academic Journey**: I've taken diverse courses at university, including software engineering, data structures, computer networks, and operating systems.  
+- 📘 **Academic Journey**: I've taken diverse courses at Cairo University, including software engineering, data structures, computer networks, and operating systems.  
 
 ## 🛠️ Projects & Contributions  
 Check out my repos! 😊  
