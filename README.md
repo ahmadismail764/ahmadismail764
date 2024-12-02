@@ -3,7 +3,7 @@
  I'm a passionate passionate **Computer Science and Information Systems Junior** at **Cairo University**. With a solid foundation in programming and problem-solving, I'm constantly learning, experimenting, and building projects that bridge the gap between theoretical concepts and real-world applications.
 
 ## 🚀 About Me  
-- 🌱 **Currently Learning**: Advanced programming concepts, data structures, and algorithms. Exploring web development, database management, and cloud computing.  
+- 🌱 **Currently Learning**: Advanced programming concepts, data structures, and algorithms. Exploring database management and Golang.  
 - 💻 **Programming Skills**:  
   - **Languages**: C++, Python.  
   - **Technologies & Tools**: Git, Visual Studio Code, SQL.  
