@@ -6,7 +6,7 @@
 - 🌱 **Currently Learning**: Advanced programming concepts, data structures, and algorithms. Exploring database management and Golang.  
 - 💻 **Programming Skills**:  
   - **Languages**: C++, Python, Java.
-  - **Technologies & Tools**: Git, Visual Studio Code, SQL.  
+  - **Technologies & Tools**: Git, GitHub, Visual Studio Code, SQL.  
 - 📘 **Academic Journey**: I've taken diverse courses at Cairo University, including software engineering, data structures, and computer networks.
 
 ## 🛠️ Projects & Contributions  
