@@ -3,10 +3,10 @@
  I'm a passionate **Computer Science and Information Systems Junior** at **Cairo University**. With a solid foundation in programming and problem-solving, I'm constantly learning, experimenting, and building projects that bridge the gap between theoretical concepts and real-world applications.
 
 ## 🚀 About Me  
-- 🌱 **Currently Learning**: Advanced programming concepts, data structures, and algorithms. Exploring database management and Golang.  
+- 🌱 **Currently Learning**: Go Lang.  
 - 💻 **Programming Skills**:  
-  - **Languages**: C++, Python, Java.
-  - **Technologies & Tools**: Git, GitHub, Visual Studio Code, SQL.  
+  - **Languages**: C++, Python, Java, SQL.
+  - **Technologies & Tools**: Git/GitHub, VSCode, MySQL, PostgreSQL, SQL Server.  
 - 📘 **Academic Journey**: I've taken diverse courses at Cairo University, including software engineering, data structures, and computer networks.
 
 ## 🛠️ Projects & Contributions  
