@@ -56,8 +56,6 @@ const me = {
 <div align="center">
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&label=Learning)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&label=Learning)
-
 </div>
 
 ## 🌟 What I'm Passionate About
