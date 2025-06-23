@@ -43,16 +43,6 @@ const me = {
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&label=Learning)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&label=Learning)
 
-### 🌟 Passionate About
-
-```yaml
-passion:
-  - Clean Code: "Writing code that tells a story"
-  - Problem Solving: "Breaking down complex challenges"
-  - Learning: "Exploring new technologies"
-  - Open Source: "Contributing to the developer community"
-```
-
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=ahmadismail764&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="350" />
