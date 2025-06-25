@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Ahmad+Ismail;Computer+Science+Student;Backend+Software+Engineer" alt="Typing SVG" />
 </div>
-
+*"The best way to learn is to build, and the best way to build is together."*
 ---
 
 <div align="center">
@@ -16,7 +16,7 @@ const me = {
     value: "Focused on building scalable, maintainable backend solutions with clean code and efficient system design."
 };
 ```
-
+<img src="https://komarev.com/ghpvc/?username=ahmadismail764&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 ## 💻 Technologies & Tools
 
 <p align="center">
@@ -63,13 +63,4 @@ const me = {
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedeldeehy30305@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-ismail-71a285259/)
-
----
-
-<img src="https://komarev.com/ghpvc/?username=ahmadismail764&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-
 </div>
-
----
-
-*"The best way to learn is to build, and the best way to build is together."*
