@@ -12,7 +12,7 @@
 const me = {
     education: "Computer Science & Information Systems @ Cairo University",
     specialization: "Backend Software Engineer",
-    keySkills: ["API Development", "Database Design", "SQL & NoSQL", "Java Spring Boot", "Node.js", "System Architecture"],
+    keySkills: ["API Development", "Database Design", "SQL", "Java Spring Boot", "Node.js", "System Architecture"],
     value: "Focused on building scalable, maintainable backend solutions with clean code and efficient system design."
 };
 ```
