@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Ahmad+Ismail;Computer+Science+Student;Backend+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Ahmad+Ismail;Computer+Science+Student;Backend+Engineer" alt="Typing SVG" />
 </div>
 
 ---
@@ -16,8 +16,8 @@
 ```javascript
 const me = {
     education: "Computer Science & Information Systems @ Cairo University",
-    specialization: "Backend Software Engineer",
-    keySkills: ["API Development", "Database Design", "SQL", "Java Spring Boot", "Node.js", "System Architecture"],
+    specialization: "Backend Engineering",
+    keySkills: ["API Development", "Database Design", "SQL", "Java Spring Boot", "System Architecture"],
     value: "Focused on building scalable, maintainable backend solutions with clean code and efficient system design."
 };
 ```
