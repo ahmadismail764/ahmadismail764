@@ -51,12 +51,6 @@ const me = {
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-## 📚 Currently Learning
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&label=Learning"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&label=Learning"/>
-</p>
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=ahmadismail764&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="350" />
