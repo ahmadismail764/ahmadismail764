@@ -7,6 +7,4 @@
 
 ---
 
-CS student focused on backend. I build REST APIs and backend systems using **Python** (FastAPI · Django · Flask), **Java** (Spring Boot), and **C#** (ASP.NET Core) — backed by PostgreSQL, MySQL, and SQL Server.
-
----
+CS student focused on backend. I can build REST APIs and backend systems using **Python** (FastAPI · Django · DjangoREST), **Java** (Spring Boot), and **C#** (ASP.NET Core) — backed by PostgreSQL, MySQL, and SQL Server.
