@@ -8,4 +8,4 @@
 
 </div>
 
-CS Graduate with experience in REST APIs and backend systems in **Python** (Django · DRF · FastAPI), **Java** (Spring Boot), and **C#** (ASP.NET Core) — backed by PostgreSQL, SQL Server, and MySQL.
+Information Systems graduate from Cairo University with experience building REST APIs and backend systems in **Python** (Django · DRF), **Java** (Spring Boot), and **C#** (ASP.NET Core), backed by PostgreSQL, SQL Server, and MySQL.
