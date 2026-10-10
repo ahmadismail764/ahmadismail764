@@ -8,4 +8,4 @@
 
 </div>
 
-CS student building REST APIs and backend systems in **Python** (Django · DRF · FastAPI), **Java** (Spring Boot), and **C#** (ASP.NET Core) — backed by PostgreSQL, SQL Server, and MySQL.
+CS Graduate with experience in REST APIs and backend systems in **Python** (Django · DRF · FastAPI), **Java** (Spring Boot), and **C#** (ASP.NET Core) — backed by PostgreSQL, SQL Server, and MySQL.
